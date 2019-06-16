@@ -1,5 +1,5 @@
-layout: sidebar
-style: dark
+layout: stacked
+style: light
 
 plugins:
   - jekyll-octicons
@@ -40,16 +40,48 @@ social_media:
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  twitter: AXeL87749763
+  # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  website: https://axel-dev.github.io/portfolio/
-  youtube: UCctMROLcvkiqpOyF98_WUYg
+  # website: http://your_website_url
+  # youtube: your_username
 
 topics:
   - name: JavaScript
     web_url: https://github.com/topics/javascript
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
+
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+
+  - name: Linux
+    web_url: https://github.com/topics/linux
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
+
+  - name: React
+    web_url: https://github.com/topics/react
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
+
+  - name: PWA
+    web_url: https://github.com/topics/pwa
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png
+
+  - name: npm
+    web_url: https://github.com/topics/npm
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png
+
+  - name: Docker
+    web_url: https://github.com/topics/docker
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png
+
+  - name: SQL
+    web_url: https://github.com/topics/sql
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png
+
+  - name: Android
+    web_url: https://github.com/topics/android
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png
 
   - name: HTML
     web_url: https://github.com/topics/html
@@ -82,3 +114,7 @@ topics:
   - name: Electron
     web_url: https://github.com/topics/electron
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png
+
+  - name: Arduino
+    web_url: https://github.com/topics/arduino
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png
